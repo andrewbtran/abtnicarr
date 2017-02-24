@@ -15,7 +15,7 @@ pc_adjust(any_df, state_type)
 This function appends state population data
 }
 \examples{
-pc_adjust()
+pc_adjust(dataframe, "Abbrev")
 }
 \keyword{capita}
 \keyword{per}

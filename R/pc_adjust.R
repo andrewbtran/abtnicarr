@@ -7,7 +7,7 @@
 #' @import dplyr
 #' @export
 #' @examples
-#' pc_adjust()
+#' pc_adjust(dataframe, "Abbrev")
 
 
 pc_adjust <- function(any_df, state_type){
