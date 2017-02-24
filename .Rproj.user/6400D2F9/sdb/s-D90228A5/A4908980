@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1487972939071.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A4908980",
+    "lastKnownWriteTime" : 140733193388032,
+    "last_content_update" : 1487972939071,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5DB699AC",
+        "caption" : "dd_adjusted",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dd_adjusted&cache_key=5DB699AC",
+        "displayedObservations" : 51,
+        "environment" : "",
+        "object" : "dd_adjusted",
+        "preview" : 0,
+        "totalObservations" : 51,
+        "variables" : 5
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

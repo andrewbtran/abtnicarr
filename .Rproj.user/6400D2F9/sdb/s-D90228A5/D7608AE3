@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: abtnicarr\nType: Package\nTitle: Adjusts for population on a dataframe\nVersion: 0.1.0\nAuthor: Andrew Tran\nMaintainer: The package maintainer <abtran@gmail.com>\nDescription: Joins state population to a dataframe and adjusts per 1,000,000.\nLicense: CC0\nEncoding: UTF-8\nLazyData: true\nImports:\n    dplyr\nRoxygenNote: 5.0.1\n",
+    "created" : 1487970574213.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2681868879",
+    "id" : "D7608AE3",
+    "lastKnownWriteTime" : 1487972031,
+    "last_content_update" : 1487972031,
+    "path" : "~/Documents/Github/nicar-2017/abtnicarr/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
